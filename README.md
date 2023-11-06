@@ -8,7 +8,7 @@ go to gameEngine/tetrixGameEngine.exe
 
 then select the start it should open a windows where u select you're bot.py file 
 
-![Executable](./Pictures/TetrisEngine.png)
+![Executable](./Pictures/SelectExeFile.png)
 
 lastly you're bot should work
 
